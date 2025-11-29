@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Meriem 👋
 
-<!--
-**meriembhl/meriembhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Master's degree in Physics and a strong interest in theoretical physics, quantum computing, and coding.  
+I'm passionate about learning, exploring complex ideas, and building new skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Quantum computing and algorithms  
+- Python for simulations and data analysis  
+
+---
+
+## 💻 Skills & Interests
+- Physics: Materials Physics → Theoretical Physics  
+- Programming: Python (learning phase)  
+- Interests: Quantum computing, chess, deep conversations  
+
+---
+
+## 📫 Connect with me
+- Email: [meriiembahloul@gmail.com](mailto:meriiembahloul@gmail.com)  
+- LinkedIn: [Meriem Bahloul](https://www.linkedin.com/in/bahloulmeriem)  
+- GitHub: [meriembhl](https://github.com/meriembhl)  
+
+---
+
+*"Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible."* – Richard Feynman ✨
